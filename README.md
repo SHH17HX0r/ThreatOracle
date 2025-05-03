@@ -1,2 +1,2 @@
 # ThreatOracle
-A project to predict future attacks based on new CVEs and current cyber attacks.
+A collection of Incident Response tools using probability, machine learning, and AI models.
